@@ -1,4 +1,5 @@
 // Rock Paper Scissors
+// Simple Computer Game Pseudocode
 // Author: Byron & Nour 
 // Date: 10/20/2023
 
