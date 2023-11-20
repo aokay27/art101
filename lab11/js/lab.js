@@ -15,5 +15,5 @@ $("#submit").click(function(){
     //sort the name
     usernameSorted = sortString(username);
     //append a new div to the output
-    $("#output").append('<div class="text"><p>' + "Here, we fixed it for you: " + usernameSorted + '</p></div>');
+    $("#output").html('<div class="text"><p>' + "Here, we fixed it for you: " + usernameSorted + '</p></div>');
 });

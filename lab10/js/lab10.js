@@ -3,6 +3,7 @@
 // Javascript file for lab 10
 
 //create random text generation function
+
 function generateRandomText() {
     const text = "Hi, I'm SpongeBob.";
     const min = 3;
